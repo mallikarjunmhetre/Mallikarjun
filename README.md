@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Mallikarjun%20M">
+  <a href="https://github.com/mallikarjunmhetre">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Mallikarjun%20M" alt="Hello! I&#39;m Mallikarjun M" />
   </a>
 </p>
@@ -51,14 +51,14 @@ Passionate Frontend Developer dedicated to building responsive, user-friendly, a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Mallikarjun%20M&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Mallikarjun%20M&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mallikarjunmhetre&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mallikarjunmhetre&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mallikarjun%20M&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mallikarjunmhetre&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
@@ -68,4 +68,4 @@ Passionate Frontend Developer dedicated to building responsive, user-friendly, a
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Mallikarjun%20M">Mallikarjun M</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/mallikarjunmhetre">mallikarjunmhetre</a></i></p>
