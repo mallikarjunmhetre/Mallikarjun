@@ -69,8 +69,6 @@ Passionate Frontend Developer dedicated to building responsive, user-friendly, a
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/mallikarjunmhetre">mallikarjunmhetre</a></i></p>
-# 💫 About Me:
-🔭 I’m currently working on<br>- Building responsive and interactive web applications using React.js, JavaScript, HTML5, and CSS3.<br>- Creating modern UI components with Tailwind CSS and Bootstrap.<br><br>👯 I’m looking to collaborate on<br>- Open-source frontend projects.<br>- React.js applications, UI/UX improvements, and web development projects.<br><br>🤝 I’m looking for help with<br>- Advanced React concepts, performance optimization, and frontend architecture.<br>- Learning best practices for scalable web applications.<br><br>🌱 I’m currently learning<br>- Next.js, TypeScript, Redux Toolkit, and Framer Motion.<br>- Backend integration using REST APIs and Firebase.<br><br>💬 Ask me about<br>- HTML, CSS, JavaScript, React.js, Responsive Web Design, Git, GitHub, and Frontend Development.<br><br>⚡ Fun fact<br>- I enjoy turning creative ideas into responsive websites and I'm always excited to learn new web technologies.
 
 
 ## 🌐 Socials:
