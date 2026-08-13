@@ -1,35 +1,49 @@
-              </button>
-              <div class="form-success" id="formSuccess">
-                <i class="fas fa-check-circle"></i> Message sent successfully! I'll reply soon.
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
-    </section>
-  </main>
-  <!-- ── Footer ── -->
-  <footer class="footer">
-    <div class="footer-container">
-      <div class="footer-logo">
-        <span class="logo-bracket">&lt;</span>MM<span class="logo-bracket">/&gt;</span>
-      </div>
-      <p class="footer-tagline">Building the future, one line at a time.</p>
-      <div
-        <a href="#hero">Home</a>
-        <a href="#about">About</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
-      </div>
-      <div class="footer-divider"></div>
-      <p class="footer-credit">
-        Designed & Developed with <span class="heart">❤️</span> by
-        <strong class="gradient-text">Mallikarjun Mhetre</strong>
-      </p>
-      <p class="footer-copy">© <span id="currentYear"></span> All rights reserved.</p>
-    </div>
-  </footer>
-  <!-- ── Back to Top ── -->
-  <button class="back-to-top" id="backToTop" title="Back to top" aria-label="Back to top">
-    <i class="fas fa
-  
+  transform: translateY(20px);
+  pointer-events: none;
+  z-index: 999;
+  border: none;
+  cursor: pointer;
+}
+.back-to-top.visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+.back-to-top:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 30px rgba(59,130,246,0.6);
+}
+/* ══════════════════════ RESPONSIVE ══════════════════════ */
+@media (max-width: 1024px) {
+  .about-grid { grid-template-columns: 1fr; gap: 3rem; }
+  .about-visual { display: flex; justify-content: center; }
+  .contact-grid { grid-template-columns: 1fr; gap: 2.5rem; }
+  .timeline::before { left: 24px; transform: none; }
+  .timeline-item { grid-template-columns: 60px 1fr; }
+  .timeline-item:nth-child(even) .timeline-dot { grid-column: 1; order: unset; }
+  .timeline-item:nth-child(even) .timeline-card { grid-column: 2; order: unset; }
+  .timeline-item:nth-child(odd) .timeline-card { grid-column: 2; }
+  .timeline-item:nth-child(odd) .timeline-dot { grid-column: 1; }
+}
+@media (max-width: 768px) {
+  .nav-links { display: none; }
+  .hamburger { display: flex; }
+  .tools-grid { grid-template-columns: repeat(3, 1fr); }
+  .projects-grid { grid-template-columns: 1fr; }
+  .certs-grid { grid-template-columns: 1fr; }
+  .stats-grid { grid-template-columns: repeat(2, 1fr); }
+  .hero-buttons { gap: 0.75rem; }
+  .hero-buttons .btn { padding: 0.65rem 1.25rem; font-size: 0.85rem; }
+  .skills-grid { grid-template-columns: repeat(2, 1fr); }
+  .tools-grid { grid-template-columns: repeat(2, 1fr); }
+  .learning-grid { grid-template-columns: repeat(2, 1fr); }
+  .contact-form-wrap { padding: 1.5rem; }
+  .contact-socials { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 480px) {
+  .section { padding: 5rem 0; }
+  .stats-grid { grid-template-columns: 1fr 1fr; }
+  .about-traits { grid-template-columns: 1fr; }
+  .skills-grid { grid-template-columns: 1fr 1fr; }
+  .hero-buttons { flex-direction: column; align-items: center; }
+}
