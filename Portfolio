@@ -1,0 +1,38 @@
+              </button>
+              <div class="form-success" id="formSuccess">
+                <i class="fas fa-check-circle"></i> Message sent successfully! I'll reply soon.
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <!-- ── Footer ── -->
+  <footer class="footer">
+    <div class="footer-container">
+      <div class="footer-logo">
+        <span class="logo-bracket">&lt;</span>MM<span class="logo-bracket">/&gt;</span>
+      </div>
+      <p class="footer-tagline">Building the future, one line at a time.</p>
+      <div class="footer-links">
+        <a href="#hero">Home</a>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+      </div>
+      <div class="footer-divider"></div>
+      <p class="footer-credit">
+        Designed & Developed with <span class="heart">❤️</span> by
+        <strong class="gradient-text">Mallikarjun Mhetre</strong>
+      </p>
+      <p class="footer-copy">© <span id="currentYear"></span> All rights reserved.</p>
+    </div>
+  </footer>
+  <!-- ── Back to Top ── -->
+  <button class="back-to-top" id="backToTop" title="Back to top" aria-label="Back to top">
+    <i class="fas fa-chevron-up"></i>
+  </button>
+  <script src="script.js"></script>
+</body>
+</html>
