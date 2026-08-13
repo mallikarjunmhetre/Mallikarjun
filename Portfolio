@@ -15,7 +15,7 @@
         <span class="logo-bracket">&lt;</span>MM<span class="logo-bracket">/&gt;</span>
       </div>
       <p class="footer-tagline">Building the future, one line at a time.</p>
-      <div class="footer-links">
+      <div
         <a href="#hero">Home</a>
         <a href="#about">About</a>
         <a href="#projects">Projects</a>
