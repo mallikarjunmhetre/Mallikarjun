@@ -9,5 +9,5 @@
   transform: translateY(0);
   pointer-egrid-template-columns: 1fr; gap: 2.5rem; }
   .timeline::before { left: 24px; transform: none; }
-  .timeline-item { grid-template-columns: 60px 1fr; }
+  .timeline-item { grid-templ
   .tate-c
