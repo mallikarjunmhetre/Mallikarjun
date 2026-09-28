@@ -1,13 +1,1 @@
-  transform: translateY(20px);
-  pointer-events: none;
-  z-index: 999;
-  border: none;
-  cursor: pointer;
-}
-.back-to-top.visible {
-  opacity: 1;
-  transform: translateY(0);
-  pointer-egrid-template-columns: 1fr; gap: 2.5rem; }
-  .timeline::before { left: 24px; transform: none; }
-  .timeline-item { grid-templ
-  .tate-c
+  https://chatgpt.com/s/w_6aba951a8fc08191a7d1f717962d3b4a
